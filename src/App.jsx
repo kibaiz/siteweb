@@ -3,10 +3,12 @@ import Home from './Home';
 import Service from './Service';
 import About from './About';
 import Contact from './Contact';
+import NavBar from './NavBar';
 import {Route, Switch, Redirect} from 'react-router-dom';
 const App = () =>{
   return(
     <>
+      <NavBar />
       <Switch>
         <Route exact  path="/" component={Home} />
         <Route exact  path="/service" component={Service} />
