@@ -44,7 +44,7 @@ const Home = () =>{
             <div className="content">
               <Row>
                 <Col className="Left-style">
-                  <h1 className="h1">C.E.D.I.I FIANARANTSOA</h1>
+                  <h1 className="h1">C.E.D.I.I</h1>
                   <Typewriter className="h2"
                         onInit={(typewriter)=>{
                         typewriter.typeString("MAMPITA HEVITRA, MAMPITA VAOVAO, MAMPITA HEVITRA VAOVAO")

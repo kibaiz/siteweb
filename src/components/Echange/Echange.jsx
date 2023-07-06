@@ -42,7 +42,7 @@ const Echange = () =>{
             <div className="content">
               <Row>
                 <Col className="Left-style">
-                  <h1 className="h1">C.E.D.I.I FIANARANTSOA</h1>
+                  <h1 className="h1">C.E.D.I.I</h1>
                   <Typewriter className="h2"
                         onInit={(typewriter)=>{
                         typewriter.typeString("MAMPITA HEVITRA, MAMPITA VAOVAO, MAMPITA HEVITRA VAOVAO")
@@ -202,7 +202,7 @@ const Echange = () =>{
       <Row className="mt-3 mb-3">
         <Col className="shadow-none p-3 mb-5 bg-light rounded">
             <h4 className="text-center">Plus d'informations</h4>
-        </Col>  
+        </Col>
       </Row>
 
       <Row className="mt-3 mb-3">
