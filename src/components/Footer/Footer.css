@@ -1,0 +1,25 @@
+.footer{
+  border: none;
+  box-shadow: rgba(18, 18, 26, 0.1) 0px 0px 20px;
+}
+
+.footer_logo{
+  margin-top: 2rem;
+  width: 10rem;
+  height: 10rem;
+  display: flex;
+  margin-left: 3rem;
+  object-fit: cover;
+}
+
+.a{
+  text-decoration: none;
+  text-align: left;
+}
+.a1{
+  text-align: left;
+}
+.para{
+  text-align: justify;
+  font-size: .9rem;
+}
